@@ -1,0 +1,9 @@
+.app__footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: var(--font-base);
+    font-size: 6px;
+    color: var(--color-gray);
+    background-color: var(--color-black);
+}
